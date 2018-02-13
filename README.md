@@ -1,1 +1,1 @@
-This repo is going to the be start of the personal portfolio. 
+This repo is going to be the start of my personal portfolio. 
